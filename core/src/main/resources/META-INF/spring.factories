@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+net.christophe.genin.spring.boot.pdfgenerator.core.PdfGeneratorConfiguration
